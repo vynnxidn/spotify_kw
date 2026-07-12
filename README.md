@@ -1,5 +1,5 @@
-# spotify_kw
-# 🎵 Spotify KW
+
+# Spotify KW
 
 **👉 [KLIK DI SINI UNTUK COBA LIVE DEMO](https://vynnxidn.github.io/spotify_kw/) 👈**
 
